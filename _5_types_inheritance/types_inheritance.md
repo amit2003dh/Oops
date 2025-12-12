@@ -1,4 +1,4 @@
-This video titled **"Lecture 74: Type of Inheritance in C++ | Single Inheritance | Multiple | Hybrid | Multipath"** explains the six main types of inheritance in C++ with real-world examples and code.
+**Type of Inheritance in C++ | Single Inheritance | Multiple | Hybrid | Multipath"** explains the six main types of inheritance in C++ with real-world examples and code.
 
 ### **1. Types of Inheritance**
 
