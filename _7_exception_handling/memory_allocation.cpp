@@ -12,7 +12,7 @@ int main()
     try
     {
         // Trying to allocate a huge amount of memory
-        int *p = new int[1000000000000];
+        int *p = new int[100];
         cout << "Memory Allocation Successful" << endl;
         delete[] p;
     }
