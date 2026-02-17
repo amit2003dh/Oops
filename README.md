@@ -306,3 +306,5 @@ file.close();
 * File handling → read/write files
 
 ---
+![oops_a](https://github.com/user-attachments/assets/de2faab3-9ee6-437c-85a3-f5c64a778bc2)
+![oops_b](https://github.com/user-attachments/assets/a7058695-a213-46f7-927d-7ed1c88700bd)
